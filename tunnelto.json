@@ -4,7 +4,7 @@
   "homepage": "https://tunnelto.me",
   "license": "MIT",
   "url": "https://app.tunnelto.me/client/tunnelto-windows-amd64.exe",
-  "hash": "sha256:15359f399c16e1806a4507eb94d8f667e3fa52d6bf2ce12bb2d12443c74339e4",
+  "hash": "sha256:1fd6f550aa1449c47d4c2c321687b20589bebc24324f64454f697df0b05e39ef",
   "bin": [["tunnelto-windows-amd64.exe", "tunnelto"]],
   "checkver": {
     "url": "https://app.tunnelto.me/api/version",
