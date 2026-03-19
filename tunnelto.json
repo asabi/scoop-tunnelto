@@ -1,10 +1,10 @@
 {
-  "version": "1.1.36-dirty",
+  "version": "1.1.37",
   "description": "Secure tunnels to localhost — expose local services via custom domains",
   "homepage": "https://tunnelto.me",
   "license": "MIT",
   "url": "https://app.tunnelto.me/client/tunnelto-windows-amd64.exe",
-  "hash": "sha256:b5d4ddb0958279b868409c1e162963405dc1794691533bf8f6444fc00f17eb3c",
+  "hash": "sha256:78282950080cf38c58fcbfac2fbebf66c931c56f6fec50100251a6235490cdcf",
   "bin": [
     [
       "tunnelto-windows-amd64.exe",
