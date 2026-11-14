@@ -1,5 +1,5 @@
 {
-  "version": "1.1.120",
+  "version": "1.1.121",
   "description": "Secure tunnels to localhost — expose local services via custom domains",
   "homepage": "https://tunnelto.me",
   "license": "MIT",
@@ -23,11 +23,11 @@
   "architecture": {
     "64bit": {
       "url": "https://app.tunnelto.me/client/tunnelto-windows-amd64.exe",
-      "hash": "sha256:4bfcc2a6da542fdea5c15eecd2ce78402990feac7e02587961a4291fbbf010a5"
+      "hash": "sha256:18395cc695dfda016c50c47e5ce2f573860cac70ab364c0eb2b584fdc3321d4d"
     },
     "arm64": {
       "url": "https://app.tunnelto.me/client/tunnelto-windows-arm64.exe",
-      "hash": "sha256:617bd0c3d5d09e15370ede33217191d8acac2f28a6c366b33abc747cbbd2597f"
+      "hash": "sha256:d778d7298319224ee98e5c0e824a99a5a60e5f1f77c0f77f592eb5b25b489cd3"
     }
   }
 }
